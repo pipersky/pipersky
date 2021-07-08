@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pipersky
+- 👋 Hi, I’m Mar.
 - 👀 I’m interested in economics, politics and data science.
 - 🌱 I’m currently exploring machine learning.
 - 💞️ I’m looking to collaborate on sustainability projects or pro bono web/app user analytics.
